@@ -1,0 +1,22 @@
+{
+  "name": "mern_setup",
+  "version": "1.0.0",
+  "description": "Project demo of setting up a nodeJS project with ReactJS frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erintait/mern_setup.git"
+  },
+  "author": "Erin Tait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erintait/mern_setup/issues"
+  },
+  "homepage": "https://github.com/erintait/mern_setup#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
